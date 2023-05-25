@@ -1,19 +1,21 @@
-# CardiovascularRisk
+# Cardiovascular Risk Prediction - Classification
 
+![banner](banner.png)
+
+<font size=1>Image Courtesy: https://www.istockphoto.com/portfolio/lemono?mediatype=illustration</font>
 
 Check the actual deployment of the model on a live server below.
 - [Deployment](http://cardio.pythonanywhere.com/)
 
 Click on the following link to checkout the video presentation and the colab file.
 - [Colab](https://github.com/novus-afk/CardiovascularRisk/blob/master/Cardiovascular_Risk_Prediction_Classification.ipynb)
-- [Video]() Coming soon!
-
+- [Video](https://youtu.be/n-4LExCQIos)
 
 ---
 
 ## Deployment Demo
 
-![](cardio.gif)
+![demo](cardio.gif)
 
 ---
 

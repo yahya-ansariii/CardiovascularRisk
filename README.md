@@ -1,5 +1,7 @@
 # Cardiovascular Risk Prediction - Classification
 
+**AlmaBetter Verified Project** - [**Credentials**](https://certificates.almabetter.com/en/verify/28459737371995)
+
 ![banner](banner.png)
 
 <font size=1>Image Courtesy: https://www.istockphoto.com/portfolio/lemono?mediatype=illustration</font>
